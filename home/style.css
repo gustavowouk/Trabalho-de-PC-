@@ -16,6 +16,10 @@ h1{
     padding: 30px;
 }
 
+h2{
+    color: white;
+}
+
 .titulo-principal{
     padding-left: 20px;
 }
@@ -27,7 +31,19 @@ h1{
 p {
     font-size:25px;
     text-align:left;
-}
- h3{
     color: white;
- }
+}
+
+.principal2{
+    background: grey;
+    padding: 20px 0;
+}
+
+h3{
+    color: white;
+}
+
+em{
+    color: black;
+}
+ 
