@@ -6,9 +6,10 @@ h1{
     color: white;
 }
 
-.imagem {
-    width: 100%;
-    height: 500px;
+.caixa{
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
 }
 
 .principal {
@@ -47,10 +48,10 @@ em{
     color: black;
 }
 
-.imagem2{
+.imagem {
+    width: 100%;
+    height: 500px;
     padding-top: 30px;
-    position: relative;
-    width: 300px;
-    margin-left: 40%;
 }
+
  
